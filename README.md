@@ -1,5 +1,8 @@
 # Silence_NightRaid
-2022 GSM Festival - Team Simply-Smooth's Unity Project
+Team Simply-Smooth's Unity Project
+
+# 수상내역 
+2022 GSM Idea Festival - 우수상 수상
 
 # 사용기술
 

@@ -29,14 +29,6 @@ Team Simply-Smooth's Unity Project
 
 </details>
 
-# Play Video
-<details>
- 
-  
- [유튜브](https://youtu.be/QfdigRZA2Mo)
-
-</details>
-
 <div align="center">
 
  <p>

@@ -7,7 +7,15 @@ Team Simply-Smooth's Unity Project
 # 수상내역 
 2022 GSM Idea Festival - 우수상 수상
 
+<div align="center">
 
+ <p>
+ <a href="https://discord.gg/kNn5a8bgXR"><img alt="Discord" src="https://img.shields.io/discord/910704564053901342?color=%20%237289DA&label=Discord%20Chat&logo=DIscord&style=for-the-badge"></a>
+</p>
+</div>
+
+
+![포스터](https://user-images.githubusercontent.com/67905493/159593504-f51b781f-47eb-4c83-b272-9ca8015dd11a.png)
 
 
 
@@ -26,13 +34,11 @@ Team Simply-Smooth's Unity Project
 
  ![image](https://user-images.githubusercontent.com/67905493/148185613-74662bb5-29d1-4d1f-93d7-e95bb9421ea4.png)
 
+ </details>
 
-</details>
-
+ 
 <div align="center">
-
- <p>
- <a href="https://discord.gg/kNn5a8bgXR"><img alt="Discord" src="https://img.shields.io/discord/910704564053901342?color=%20%237289DA&label=Discord%20Chat&logo=DIscord&style=for-the-badge">
+ 
 <a href="https://youtu.be/QfdigRZA2Mo"><h3>게임 시연 영상</h3></a>
 </div>
   

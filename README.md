@@ -1,7 +1,5 @@
 # Silent Raid
-Team Simply-Smooth's Unity Project
-
-# 장르
+Team Simply-Smooth's Unity Project      
 멀티플레이어 좀비 서바이벌 FPS
 
 # 수상내역 

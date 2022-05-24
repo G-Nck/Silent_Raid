@@ -1,3 +1,7 @@
+# 게임 공개 및 배포용 Repo입니다.
+유료 에셋 포함, 온라인 서버 설정 등의 이유로 프로젝트 파일을 공개하지 않고 있습니다.
+파일 공유를 원하실 경우 연락 바랍니다.
+
 # Silent Raid
 Team Simply-Smooth's Unity Project      
 
